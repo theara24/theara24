@@ -19,13 +19,12 @@
  <!-- Banner & Links -->
 
  <!-- Heading and BIO -->
-<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Sumonta Saha Mridul </h1>
+<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Chim Theara </h1>
 
 <div align="center" width="150px">
 
-I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
-I am a content writer, **[Learn & Code Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (400+ Subscribers)  <br />
-Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
+I am currently a <b>Full Stack Developer <br />
+ I am studying <b>Management Information Systems</b> in <b>Setec Institute of Cambodia(SETEC)</b>. <br />
 
 </div>
 
