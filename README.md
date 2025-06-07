@@ -38,7 +38,7 @@
 <!-- About Me -->
 </br>
 <div align="left">
-  <a href="https://drive.google.com/file/d/1MAtJjLgIn7ZznP7HfwimfYJyDlqCHmLv/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1MAtJjLgIn7ZznP7HfwimfYJyDlqCHmLv/view?usp=sharing](https://drive.google.com/file/d/1dLd0aG_Xk7dzm34g_Ngvk-zfEReMlz1G/view?usp=sharing)">
     <img src="https://img.shields.io/badge/My%20CV-%40Chim%20Theara-blue" width="200" height="35">
   </a>
   <a href="https://theara24-portfolio.vercel.app">
