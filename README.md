@@ -89,8 +89,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
 <!-- Banners 4th Phase : SpiderMan -->
-<p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+<p align='right'>
+  <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
@@ -98,6 +98,7 @@
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 #### 📚 Frontend Development & Frameworks
@@ -108,6 +109,8 @@
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
@@ -115,7 +118,8 @@
 #### ⛏️ Backend Development & Database Services
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spring/spring2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
@@ -126,6 +130,7 @@
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
+
 #### 🚦 Version Control & Documentation Tools
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
