@@ -33,7 +33,7 @@
 - ✨ Running a YouTube channel: <b>R Relaxing</b> & exploring freelance opportunities<br>
 - 👯 Passionate about <b>collaborative projects and open source contributions</b> 😃<br>
 - 🥅 <i><b>2025 Goals</b></i>: Master React, TypeScript, and build production-ready web apps<br>
-- ⚡ Interests: How AI like ChatGPT can assist web designers & freelancers! 😏<br>
+- ⚡ Interests: How AI like ChatGPT can assist web designers & freelancers! <br>
 </p>
 <!-- About Me -->
 </br>
