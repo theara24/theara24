@@ -27,14 +27,15 @@
  <!-- Banners 3rd Phase : About Me -->
 
 <!-- About Me -->
-<p align='left'>
-- 🎓 <b>Management Information Systems (MIS)</b> major at university<br>
-- 🌱 Currently diving deeper into <b>Web Design, UI/UX, and Full Stack Development</b> 😁<br>
+<p align="left">
+- 🎓 <b>Management Information Systems (MIS)</b> student at university<br>
+- 🌱 Currently deepening skills in <b>Web Development, UI/UX, and Full Stack Development</b> 😁<br>
 - ✨ Running a YouTube channel: <b>R Relaxing</b> & exploring freelance opportunities<br>
-- 👯 Passionate about <b>collaborative projects and open source contributions</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Master React, TypeScript, and build production-ready web apps<br>
-- ⚡ Interests: How AI like ChatGPT can assist web designers & freelancers! <br>
+- 👯 Passionate about <b>collaborative projects and open-source contributions</b> 😃<br>
+- 🥅 <i><b>2025 Goals</b></i>: Master React and TypeScript, and build production-ready web applications<br>
+- ⚡ Interests: Exploring how AI like ChatGPT can assist web designers and freelancers<br>
 </p>
+
 <!-- About Me -->
 </br>
 <div align="left">
@@ -109,6 +110,7 @@
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NuxtJS/nuxtjs3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
