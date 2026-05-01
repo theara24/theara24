@@ -28,13 +28,14 @@
 
 <!-- About Me -->
 <p align="left">
-- 🎓 <b>Management Information Systems (MIS)</b> student at university<br>
-- 🌱 Currently deepening skills in <b>Web Development, UI/UX, and Full Stack Development</b> 😁<br>
-- ✨ Running a YouTube channel: <b>R Relaxing</b> & exploring freelance opportunities<br>
-- 👯 Passionate about <b>collaborative projects and open-source contributions</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Master React and TypeScript, and build production-ready web applications<br>
-- ⚡ Interests: Exploring how AI like ChatGPT can assist web designers and freelancers<br>
+- 💻 <b>Junior Backend Developer</b> at <b>Orkun Solutions Co., Ltd.</b> (Phnom Penh, Cambodia 🇰🇭)<br>
+- 🎓 <b>Year 3 MIS Student</b> & <b>Full Stack Scholarship Graduate</b><br>
+- 🌱 Currently focusing on <b>Backend Architecture, API Design & Scalable Systems</b><br>
+- 👯 Passionate about <b>clean code, teamwork, and real-world projects</b><br>
+- 🥅 <b>2026 Goals:</b> Master Spring Boot, Node.js & Cloud Infrastructure<br>
+- ⚡ Fun fact: Using AI to connect <b>design thinking with backend efficiency</b>
 </p>
+
 
 <!-- About Me -->
 </br>
@@ -54,35 +55,19 @@
 <div align="left">
 
 ## 📞 Connect with me  
-<p align="left">
-  <a href="chimtheara93@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/>
-  </a> 
-  <a href="[https://facebook.com/your-facebook-username](https://www.facebook.com/share/1AmnDFke7c/?mibextid=wwXIfr)">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo" />
-  </a> 
-  <a href="[https://instagram.com/your-instagram-username](https://www.instagram.com/chim.theara.188?igsh=MXZseWljbmU2cXpneQ%3D%3D&utm_source=qr)">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" />
-  </a> 
-  <a href="https://t.me/chim_theara">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo" />
-  </a>
-  <a href="[https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/theara-chim-971845341/)">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
-  </a> 
-  <a href="[https://dribbble.com/your-dribbble-username](https://dribbble.com/theara24)">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="42" height="30" alt="dribbble logo" />
-  </a>
-  <a href="[https://stackoverflow.com/users/your-stackoverflow-id/your-stackoverflow-username](https://stackoverflow.com/users/24945964/theara-chim)">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="stackoverflow logo" />
-  </a>
-  <a href="[https://dev.to/your-dailydev-username](https://app.daily.dev/thearachim)">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="42" height="30" alt="daily dev logo" />
-  </a>
-  <a href="[https://freelance.yourplatform.com/your-freelance-profile](https://www.freelancer.com/u/thearachim)">
-    <img src="https://cdn-icons-png.flaticon.com/512/747/747376.png" width="42" height="30" alt="freelance logo" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="mailto:chimtheara93@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42"/></a></td>
+    <td><a href="https://www.facebook.com/share/1AmnDFke7c/?mibextid=wwXIfr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42"/></a></td>
+    <td><a href="https://www.instagram.com/chim.theara.188"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42"/></a></td>
+    <td><a href="https://t.me/chim_theara"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42"/></a></td>
+    <td><a href="https://www.linkedin.com/in/theara-chim-971845341/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42"/></a></td>
+    <td><a href="https://dribbble.com/theara24"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="42"/></a></td>
+    <td><a href="https://stackoverflow.com/users/24945964/theara-chim"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42"/></a></td>
+    <td><a href="https://app.daily.dev/thearachim"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="42"/></a></td>
+    <td><a href="https://www.freelancer.com/u/thearachim"><img src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" width="42"/></a></td>
+  </tr>
+</table>
 
 <!-- Contact Section -->
 <!-- Skill Section -->
