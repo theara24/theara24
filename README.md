@@ -15,7 +15,7 @@
 
  <!-- Typewriting Introduction -->
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+MIS+Student;I+am+a+Web+Designer+and+Developer;Building+freelance+projects+and+sharing+knowledge)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=500&lines=Backend-Focused+Full-Stack+Developer;Building+scalable+REST+APIs+%26+Microservices;MIS+Student+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
 
  <!-- Typewriting Introduction -->
@@ -27,14 +27,12 @@
  <!-- Banners 3rd Phase : About Me -->
 
 <!-- About Me -->
-<p align="left">
-- 💻 <b>Junior Backend Developer</b> at <b>Orkun Solutions Co., Ltd.</b> (Phnom Penh, Cambodia 🇰🇭)<br>
-- 🎓 <b>Year 3 MIS Student</b> & <b>Full Stack Scholarship Graduate</b><br>
-- 🌱 Currently focusing on <b>Backend Architecture, API Design & Scalable Systems</b><br>
-- 👯 Passionate about <b>clean code, teamwork, and real-world projects</b><br>
-- 🥅 <b>2026 Goals:</b> Master Spring Boot, Node.js & Cloud Infrastructure<br>
-- ⚡ Fun fact: Using AI to connect <b>design thinking with backend efficiency</b>
-</p>
+- 💻 <b>Junior Backend Developer</b> at <b>Everlast Information & Apps Dev Co., Ltd.</b> (Phnom Penh, Cambodia 🇰🇭) – building production‑grade REST APIs and distributed services with Node.js, Express, RabbitMQ, and Docker.<br>
+- 🎓 <b>Year 3 MIS Student</b> at SETEC Institute & <b>Full Stack Development Scholarship Graduate</b> (ISTAD).<br>
+- 🌱 Currently deepening expertise in <b>backend architecture</b>, <b>microservices</b>, <b>API design</b>, and <b>scalable system patterns</b>.<br>
+- 👯 Passionate about writing clean, maintainable code and collaborating on impactful real‑world projects.<br>
+- 🥅 <b>2026 Goals:</b> Master Spring Boot, cloud infrastructure (AWS/GCP), and advanced system design.<br>
+- ⚡ <b>Fun fact:</b> I love blending design thinking with backend efficiency to create user‑friendly and high‑performance applications.
 
 
 <!-- About Me -->
@@ -80,58 +78,68 @@
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
-#### 🦖 Competitive Programming
+#### 🛠️ Core Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-#### 📚 Frontend Development & Frameworks
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NuxtJS/nuxtjs3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+#### 🗄️ Databases & Caching
 
-#### ⛏️ Backend Development & Database Services
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Navicat](https://img.shields.io/badge/Navicat-109D59?style=for-the-badge&logo=navicat&logoColor=white)
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spring/spring2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
 
-#### 😡 App Development
+#### ⚡ Messaging & Distributed Systems
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=bullmq&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![XMPP](https://img.shields.io/badge/XMPP-002B5C?style=for-the-badge&logo=xmpp&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Monorepo](https://img.shields.io/badge/Monorepo-181717?style=for-the-badge&logo=git&logoColor=white)
 
-#### 🚦 Version Control & Documentation Tools
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+#### 📚 Frontend & Mobile
 
-#### 🎨 Graphic Design & UX/UI Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-- ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-- ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
+#### 🚀 DevOps, Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Jump Server](https://img.shields.io/badge/Jump_Server-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-6366F1?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- Skill Section -->
 
